@@ -1,6 +1,6 @@
 # Bike Rental Demand Prediction
 
-![Bike Rental](bike_image.jpg)
+![Bike Rental]
 
 Predictive modeling for bike rental demand using machine learning techniques. This project explores the hourly bike rental counts based on various factors such as weather, time of day, and more.
 
